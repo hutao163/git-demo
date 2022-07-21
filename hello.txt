@@ -3,5 +3,5 @@ hello atguigu! hello git
 hello atguigu! hello git
 hello atguigu! hello git
 hello atguigu! hello git
-hot-fix
 master text
+hot-fix text
